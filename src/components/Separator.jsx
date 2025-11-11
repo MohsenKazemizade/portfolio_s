@@ -1,4 +1,3 @@
-// src/components/Separator.js
 const Separator = ({ type }) => {
   switch (type) {
     case "up":

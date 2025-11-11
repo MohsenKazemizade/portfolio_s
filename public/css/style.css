@@ -481,7 +481,7 @@ header .header-inner {
   display: flex;
   justify-content: space-between;
   padding: 30px;
-  opacity: 0;
+  /* opacity: 0; */
 }
 
 header .header-inner .menu ul {
